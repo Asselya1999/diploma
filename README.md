@@ -3,3 +3,4 @@
 "# diploma-" 
 "# diploma-" 
 "# diploma-" 
+"# diplomka" 
